@@ -1,4 +1,4 @@
-# Theme settings
+# KM-A Job List Report
 dox:
     baseurl:
     title: KM-A Job List Report
@@ -16,16 +16,16 @@ dox:
         cta:
             label: Documentation
             url: /documentation
-            icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+            icon: folder # list of all icons - https://feathericons.com
     footer:
         logo:
             text: KM-A Job List Report
             image:
         text:  Copyright &copy; © 2019. BOBICA KMC-IIMMSS 4.0, <br> KM-Croatia, Ul. dr. Otmar Zwiebelhofer 3, 10 451 Pisarovina. All Rights Reserved.
     google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+        tracking_code: # GA tracking code 
     comments:
-        disqus_forum_shortname: # Add your Disqus forum shortname to activate comments site-wide
+        disqus_forum_shortname: # Disqus forum shortname
 
 # Defining collections
 collections:
