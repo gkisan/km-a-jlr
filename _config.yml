@@ -6,8 +6,8 @@ dox:
     language: en-US # Use ISO language and country codes to setup language of your website - https://www.w3schools.com/tags/ref_language_codes.asp and https://www.w3schools.com/tags/ref_country_codes.asp
     header:
         logo:
-            text: KM-A 
-            image:
+            text:  
+            image: true
         nav:
             - item_name: Homepage
               item_url: /
@@ -19,8 +19,8 @@ dox:
             icon: folder # list of all icons - https://feathericons.com
     footer:
         logo:
-            text: KM-A Job List Report
-            image:
+            text: 
+            image: true
         text:  Copyright &copy; © 2019. BOBICA KMC-IIMMSS 4.0, <br> KM-Croatia, Ul. dr. Otmar Zwiebelhofer 3, 10 451 Pisarovina. All Rights Reserved.
     google_analytics:
         tracking_code: # GA tracking code 
